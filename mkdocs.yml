@@ -1,0 +1,105 @@
+# Recommended pip install:
+# pip install mkdocs-material mkdocstrings[python] mkdocs-jupyter mkdocs-git-revision-date-localized-plugin pymdown-extensions
+
+site_name: Muhammad Ali Raza Portfolio
+site_description: Portfolio of Ali – Data Scientist & AI Developer. Showcasing projects, skills, publications, and more.
+site_author: Muhammad Ali Raza
+# site_url: https://your-portfolio-url.com
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Experience: experience.md
+  - Education: education.md
+  - Certifications: certifications.md
+  # - Publications & Blogs: publications.md
+  # - Talks & Workshops: talks.md
+  - Resume: resume.md
+  - References: references.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Fira Mono
+  logo: image/profile.jpg
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.tabs.link
+    - toc.integrate
+    - header.autohide
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:alii.razaaa01@gmail.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/razaalirana
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/raza-ali-muhammad
+    # - icon: fontawesome/brands/twitter
+    #   link: https://twitter.com/yourusername
+    - icon: fontawesome/brands/kaggle
+      link: https://kaggle.com/muhammadalee7
+    # - icon: fontawesome/brands/medium
+    #   link: https://medium.com/@yourusername
+  analytics:
+    provider: google
+    property: UA-XXXXXXXXX-X
+  social_image: assets/social-preview.png
+  generator: false
+
+plugins:
+  - search
+  - mkdocstrings
+  - mkdocs-jupyter
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.highlight
+  - pymdownx.snippets
+  - pymdownx.arithmatex  # For math support
+
+extra_css:
+  - assets/custom.css
+
+extra_javascript:
+  - assets/custom.js
