@@ -2,7 +2,7 @@
 
 ---
 
-## 🏢 **Syncro Business Insights 360**
+## 🏢 **Syncro Business Insights 360 - (Power BI + SQL)**
 
 **Description:**  
 A comprehensive **Power BI dashboard** providing a 360° view of business performance across key functions:
@@ -19,7 +19,7 @@ This tool enables stakeholders to access profit and loss statements, customer an
 
 ---
 
-## 🏥 **Hospital Healthcare Analytics**
+## 🏥 **Hospital Healthcare Analytics - (Power BI)**
 
 **Description:**  
 This **Power BI dashboard** provides a comprehensive overview of patient visits to the emergency room, including:
@@ -36,7 +36,7 @@ With visual insights into patient flow and departmental referrals, this tool aid
 
 ---
 
-## 📊 **HealthStat Analytics**
+## 📊 **HealthStat Analytics - (Power BI)**
 
 **Description:**  
 The **HealthStat Analytics Dashboard** is an interactive Power BI tool for analyzing hospital performance metrics, including:
@@ -51,7 +51,7 @@ It enables users to identify factors influencing costs and LOS, compare hospital
 
 ---
 
-## 📞 **Telecom Customer Churn Analysis – Databel**
+## 📞 **Telecom Customer Churn Analysis – Databel - (Power BI)**
 
 **Description:**  
 This **Power BI dashboard** analyzes customer churn for Databel, a telecom company. It visualizes:
@@ -68,7 +68,7 @@ The insights help identify key factors driving customer attrition and support da
 
 ---
 
-## 👔 **HR Analytics Dashboard**
+## 👔 **HR Analytics Dashboard - (Power BI)**
 
 **Description:**  
 I built an interactive **Power BI dashboard** for an imaginary company, Atlas Labs, to help its HR team analyze workforce trends. It visualizes:
@@ -84,7 +84,7 @@ It also identifies factors influencing employee turnover. This project highlight
 
 ---
 
-## 🖥️ **Life Dashboard - Streamlit Webapp**
+## 🖥️ **Life Dashboard - Streamlit Webapp - (Python + Libraries)**
 
 **Description:**  
 This **Streamlit webapp** helps you visualize and manage your time across different life activities with customizable options:
