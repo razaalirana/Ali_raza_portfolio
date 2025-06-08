@@ -20,7 +20,7 @@ I'm a Data Analyst passionate about transforming complex data into meaningful in
 
 ## 📊 Quick Stats
 
-- 🗂️ **5**+ Data Projects Completed
+- 🗂️ **6**+ Data Projects Completed
 - ⏳ **3**+ Years of Experience
 - 🏅 **5**+ Certifications Earned
 

@@ -83,3 +83,20 @@ It also identifies factors influencing employee turnover. This project highlight
 🔗 [View Project](https://app.powerbi.com/view?r=eyJrIjoiMGViMmQxZmUtYzNhZS00MTlkLTk4MDMtODQyNDBhZGU4ZmM2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ---
+
+## 🖥️ **Life Dashboard - Streamlit Webapp**
+
+**Description:**  
+This **Streamlit webapp** helps you visualize and manage your time across different life activities with customizable options:
+
+- 🔧 **Customizable Inputs:** Enter your date of birth, expected lifespan, and daily hours for work, sleep, exercise, travel, meals, family/friends, plus up to 10 custom activities.
+- 🔢 **Unit Selection:** View results in years, months, weeks, days, or hours.
+- 📊 **Multiple Visualizations:** Choose from pie charts (including donut), bar charts, and treemaps.
+- 🎯 **Interactive Charts:** Click on legend items to include/exclude categories.
+- 📋 **Detailed Summary Table:** Compare time spent versus remaining, with percentages.
+- 💡 **Insights and Recommendations:** See metrics for free time and get actionable suggestions.
+- 📥 **Data Export:** Download your data as CSV or JSON for further analysis.
+
+🔗 [View Project](https://lifedashboardapppy-jf2tc6rey4gm2ie5uq7dfl.streamlit.app/)
+
+---
